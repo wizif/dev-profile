@@ -26,7 +26,7 @@ AI-powered platform for analyzing developer profiles and conducting real-time ba
 - SendGrid
 - Google OAuth 2.0
 - Gemini AI
-
+,
 ## 📦 Installation
 
 ### Prerequisites
