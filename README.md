@@ -8,7 +8,7 @@ AI-powered platform for analyzing developer profiles and conducting real-time ba
 - 🤖 **AI Analysis** - Gemini-powered profile scoring and recommendations
 - 📄 **Resume Parser** - PDF/DOCX resume analysis
 - 💬 **Real-time Chat** - Socket.IO-based verification system
-- ✉️ **Email Notifications** - SendGrid integration
+- ✉️ **Email Notifications** - SendGrid integration 
 - 🔐 **Google OAuth** - Secure authentication
 
 ## 🛠️ Tech Stack
