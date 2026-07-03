@@ -7,7 +7,7 @@ AI-powered platform for analyzing developer profiles and conducting real-time ba
 - 📊 **Profile Analytics** - GitHub, LeetCode, HackerRank integration
 - 🤖 **AI Analysis** - Gemini-powered profile scoring and recommendations
 - 📄 **Resume Parser** - PDF/DOCX resume analysis
-- 💬 **Real-time Chat** - Socket.IO-based verification system
+- 💬 **Real-time Chat** - Socket.IO-based verification system 
 - ✉️ **Email Notifications** - SendGrid integration 
 - 🔐 **Google OAuth** - Secure authentication
 
