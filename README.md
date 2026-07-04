@@ -17,7 +17,7 @@ AI-powered platform for analyzing developer profiles and conducting real-time ba
 - React + Vite
 - TailwindCSS
 - Socket.IO Client
-- React Router
+- React Router 
 
 **Backend:**
 - Node.js + Express
