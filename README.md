@@ -3,7 +3,7 @@
 AI-powered platform for analyzing developer profiles and conducting real-time background verifications.
 
 ## ✨ Features
-
+.
 - 📊 **Profile Analytics** - GitHub, LeetCode, HackerRank integration
 - 🤖 **AI Analysis** - Gemini-powered profile scoring and recommendations
 - 📄 **Resume Parser** - PDF/DOCX resume analysis
