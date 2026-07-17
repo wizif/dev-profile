@@ -1,4 +1,4 @@
-# 🚀 Developer Profile Analyzer
+.# 🚀 Developer Profile Analyzer
 
 AI-powered platform for analyzing developer profiles and conducting real-time background verifications.
 
