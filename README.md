@@ -103,7 +103,7 @@ npm run dev
 
 ## 🚀 Deployment
 
-**Frontend (Vercel):**
+**Frontend (Vercel):** 
 ```bash
 cd client
 vercel --prod
