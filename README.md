@@ -24,7 +24,7 @@ AI-powered platform for analyzing developer profiles and conducting real-time ba
 - MongoDB + Mongoose
 - Socket.IO
 - SendGrid
-- Google OAuth 2.0
+- Google OAuth 2.0 
 - Gemini AI
 ,
 ## 📦 Installation 
