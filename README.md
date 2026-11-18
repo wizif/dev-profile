@@ -28,7 +28,7 @@ AI-powered platform for analyzing developer profiles and conducting real-time ba
 - Gemini AI
 ,
 ## 📦 Installation 
-
+ 
 ### Prerequisites
 - Node.js 18+
 - MongoDB Atlas account
