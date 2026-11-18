@@ -29,7 +29,7 @@ AI-powered platform for analyzing developer profiles and conducting real-time ba
 ,
 ## 📦 Installation 
  
-### Prerequisites
+### Prerequisites 
 - Node.js 18+
 - MongoDB Atlas account 
 - Google Cloud OAuth credentials
